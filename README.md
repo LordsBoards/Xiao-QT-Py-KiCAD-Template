@@ -7,7 +7,10 @@ This KiCad template provides a footprint for the QT Py/Xiao board from Seeed. Th
 - **Mechanical Dimensions:** Exact measurements.
 - **Pinout:** All pins are clearly labeled for easy reference.
 
-![Front View](front.png)
+<p align="center">
+  <img src="./front.png>
+</p>
+
 
 ## How to Use
 
