@@ -8,7 +8,7 @@ This KiCad template provides a footprint for the QT Py/Xiao board from Seeed. Th
 - **Pinout:** All pins are clearly labeled for easy reference.
 
 <p align="center">
-  <img src="./front.png>
+  <img src="./front.png">
 </p>
 
 
